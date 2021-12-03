@@ -1,0 +1,11 @@
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T16:55:55.297Z"}
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T16:55:55.299Z"}
+{"message":{"method":"GET","url":"/login"},"level":"info","label":"application","timestamp":"2020-11-27T16:56:07.088Z"}
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T17:07:26.586Z"}
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T17:07:26.591Z"}
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T17:09:10.283Z"}
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T17:09:11.069Z"}
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T17:14:37.418Z"}
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T17:14:38.205Z"}
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T17:14:39.813Z"}
+{"message":"App is running on http://localhost:3000","level":"info","label":"application","timestamp":"2020-11-27T17:14:39.896Z"}

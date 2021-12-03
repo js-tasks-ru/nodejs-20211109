@@ -1,0 +1,4 @@
+password - 123123
+salt - asdf98a7sd0f987asd0f897as09d87f0a9s8d7f
+    -> pbkdf2 
+    -> hash - asdf897asd0f987as9df807as9d8f7a0s9d87fa09sd87f
